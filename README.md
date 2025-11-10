@@ -4,6 +4,7 @@ Este é um projeto de Machine Learning que visa desenvolver e avaliar modelos de
 
 O projeto foi desenvolvido como parte da disciplina de Inteligência Artificial do Curso Ciência da Computação do IFGoiano Campus Iporá e cobre um pipeline completo, desde a coleta e limpeza de dados até a otimização de hiperparâmetros e análise de resultados.
 
+---
 
 Objetivos
 
